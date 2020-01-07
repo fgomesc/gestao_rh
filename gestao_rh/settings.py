@@ -41,6 +41,8 @@ INSTALLED_APPS = [
     'apps.empresa',
     'apps.funcionarios',
     'apps.departamentos',
+    'apps.documentos',
+    'apps.registro_hora_extra',
 
 ]
 
